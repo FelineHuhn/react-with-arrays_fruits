@@ -6,14 +6,22 @@
   background-color: var(--color-water);
 }
 
-.card--green {
-  background-color: lightgreen;
+.card--LemonChiffon {
+  background-color: LemonChiffon;
 }
 
-.card--red {
-  background-color: lightcoral;
+.card--LightPink {
+  background-color: LightPink;
 }
 
-.card--yellow {
-  background-color: lightyellow;
+.card--Lavender {
+  background-color: Lavender;
+}
+
+.card--LightGreen {
+  background-color: LightGreen;
+}
+
+.card--MistyRose {
+  background-color: MistyRose;
 }
